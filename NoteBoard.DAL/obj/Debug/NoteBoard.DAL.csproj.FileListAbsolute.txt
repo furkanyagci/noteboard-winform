@@ -1,0 +1,28 @@
+C:\Users\bilge.adam\Desktop\FurkanYagci\Entity Framework\NOTEBOARD\NoteBoard.DAL\bin\Debug\NoteBoard.DAL.dll.config
+C:\Users\bilge.adam\Desktop\FurkanYagci\Entity Framework\NOTEBOARD\NoteBoard.DAL\bin\Debug\NoteBoard.DAL.dll
+C:\Users\bilge.adam\Desktop\FurkanYagci\Entity Framework\NOTEBOARD\NoteBoard.DAL\bin\Debug\NoteBoard.DAL.pdb
+C:\Users\bilge.adam\Desktop\FurkanYagci\Entity Framework\NOTEBOARD\NoteBoard.DAL\bin\Debug\EntityFramework.dll
+C:\Users\bilge.adam\Desktop\FurkanYagci\Entity Framework\NOTEBOARD\NoteBoard.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bilge.adam\Desktop\FurkanYagci\Entity Framework\NOTEBOARD\NoteBoard.DAL\bin\Debug\NoteBoard.Model.dll
+C:\Users\bilge.adam\Desktop\FurkanYagci\Entity Framework\NOTEBOARD\NoteBoard.DAL\bin\Debug\NoteBoard.Model.pdb
+C:\Users\bilge.adam\Desktop\FurkanYagci\Entity Framework\NOTEBOARD\NoteBoard.DAL\bin\Debug\EntityFramework.xml
+C:\Users\bilge.adam\Desktop\FurkanYagci\Entity Framework\NOTEBOARD\NoteBoard.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bilge.adam\Desktop\FurkanYagci\Entity Framework\NOTEBOARD\NoteBoard.DAL\obj\Debug\NoteBoard.DAL.csprojAssemblyReference.cache
+C:\Users\bilge.adam\Desktop\FurkanYagci\Entity Framework\NOTEBOARD\NoteBoard.DAL\obj\Debug\NoteBoard.DAL.csproj.CoreCompileInputs.cache
+C:\Users\bilge.adam\Desktop\FurkanYagci\Entity Framework\NOTEBOARD\NoteBoard.DAL\obj\Debug\NoteBoard.DAL.csproj.CopyComplete
+C:\Users\bilge.adam\Desktop\FurkanYagci\Entity Framework\NOTEBOARD\NoteBoard.DAL\obj\Debug\NoteBoard.DAL.dll
+C:\Users\bilge.adam\Desktop\FurkanYagci\Entity Framework\NOTEBOARD\NoteBoard.DAL\obj\Debug\NoteBoard.DAL.pdb
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\NOTEBOARD\NoteBoard.DAL\bin\Debug\NoteBoard.DAL.dll.config
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\NOTEBOARD\NoteBoard.DAL\bin\Debug\NoteBoard.DAL.dll
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\NOTEBOARD\NoteBoard.DAL\bin\Debug\NoteBoard.DAL.pdb
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\NOTEBOARD\NoteBoard.DAL\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\NOTEBOARD\NoteBoard.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\NOTEBOARD\NoteBoard.DAL\bin\Debug\NoteBoard.Model.dll
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\NOTEBOARD\NoteBoard.DAL\bin\Debug\NoteBoard.Model.pdb
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\NOTEBOARD\NoteBoard.DAL\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\NOTEBOARD\NoteBoard.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\NOTEBOARD\NoteBoard.DAL\obj\Debug\NoteBoard.DAL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\NOTEBOARD\NoteBoard.DAL\obj\Debug\NoteBoard.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\NOTEBOARD\NoteBoard.DAL\obj\Debug\NoteBoard.DAL.csproj.CopyComplete
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\NOTEBOARD\NoteBoard.DAL\obj\Debug\NoteBoard.DAL.dll
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\NOTEBOARD\NoteBoard.DAL\obj\Debug\NoteBoard.DAL.pdb

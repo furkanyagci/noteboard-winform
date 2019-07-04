@@ -1,0 +1,11 @@
+C:\Users\bilge.adam\Desktop\FurkanYagci\Entity Framework\NOTEBOARD\NoteBoard.Model\bin\Debug\NoteBoard.Model.dll
+C:\Users\bilge.adam\Desktop\FurkanYagci\Entity Framework\NOTEBOARD\NoteBoard.Model\bin\Debug\NoteBoard.Model.pdb
+C:\Users\bilge.adam\Desktop\FurkanYagci\Entity Framework\NOTEBOARD\NoteBoard.Model\obj\Debug\NoteBoard.Model.csproj.CoreCompileInputs.cache
+C:\Users\bilge.adam\Desktop\FurkanYagci\Entity Framework\NOTEBOARD\NoteBoard.Model\obj\Debug\NoteBoard.Model.dll
+C:\Users\bilge.adam\Desktop\FurkanYagci\Entity Framework\NOTEBOARD\NoteBoard.Model\obj\Debug\NoteBoard.Model.pdb
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\NOTEBOARD\NoteBoard.Model\bin\Debug\NoteBoard.Model.dll
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\NOTEBOARD\NoteBoard.Model\bin\Debug\NoteBoard.Model.pdb
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\NOTEBOARD\NoteBoard.Model\obj\Debug\NoteBoard.Model.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\NOTEBOARD\NoteBoard.Model\obj\Debug\NoteBoard.Model.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\NOTEBOARD\NoteBoard.Model\obj\Debug\NoteBoard.Model.dll
+C:\Users\User\Desktop\Tulga beye gönderilecek projeler\NOTEBOARD\NoteBoard.Model\obj\Debug\NoteBoard.Model.pdb
